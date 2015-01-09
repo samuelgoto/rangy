@@ -4,6 +4,8 @@
  *
  * Depends on Rangy core, TextRange and CssClassApplier modules.
  *
+ * Changes made by Sam Goto (samuelgoto@gmail.com).
+ *
  * Copyright %%build:year%%, Tim Down
  * Licensed under the MIT license.
  * Version: %%build:version%%
